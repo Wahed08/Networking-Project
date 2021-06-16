@@ -1,3 +1,3 @@
 # Networking-Project
 
-A file server system is created by java socket programming.
+A file sharing system between server and client through tcp socket communication built in java.
